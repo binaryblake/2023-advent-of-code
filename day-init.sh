@@ -1,0 +1,1 @@
+npm init -y && npm i --save-dev typescript @types/node nodemon && tsc --init && touch index.ts && touch input.txt
